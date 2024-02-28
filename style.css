@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-color:green
+}
+
+button {
+    margin: 40px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    border: 1px red;
+}
+
+h1 {
+    color: white
+}
